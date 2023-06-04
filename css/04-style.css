@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    color: rgb(red, green, blue);
+    background-color: aquamarine;
+    
+}
+
+.lor-class{
+
+    background-color: burlywood;
+}
+
+.baslik1{
+    border-top: 3px solid green;
+    border-bottom: 3px solid pink;
+    margin-top: 5rem ;
+    margin-right:3rem ;
+    PADDİNG: 2rem 1 rem 3 rem 6rem;
+
+    }
+.baslik2{
+border: 123px solid gold;
+padding: 45px;
+background-color: chartreuse;
+
+}
+
+.baslik3{
+    border: 12px dotted orangered;
+    border-radius: 5px;
+}
+.baslik4{
+    border: 15px dashed;
+    background-color: orange;
+    text-transform: uppercase;
+    border-radius: 30 px;
+}
+.baslik1{
+    border-top: 3px solid green;
+}

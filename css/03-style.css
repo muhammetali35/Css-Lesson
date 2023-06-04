@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+
+}
+p{
+    color: cadetblue;
+    background-color: rgb(197, 231, 231);
+    text-align: right;
+    font-size: smaller;
+
+}
